@@ -2,6 +2,11 @@
 python基础语法复习
 
 
+#学习资源
+@http://lib.csdn.net/base/python/resource
+@https://zhuanlan.zhihu.com/p/21856569
+@http://www.code123.cc/255.html
+
 # python基础语法学习1
 
 
@@ -26,3 +31,7 @@ python基础语法复习
 
 0X004
 1.函数定义
+
+
+0X005
+1.gif转字符画
